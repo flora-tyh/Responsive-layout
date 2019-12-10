@@ -1,0 +1,27 @@
+.header {
+    max-width: 1300px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: rgb(148, 223, 79);
+    font-size: 1rem;
+}
+
+.container {
+    max-width: 1300px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+.box {
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+.left {
+    background-color: rgb(71, 209, 233);
+}
+
+.right {
+    background-color: rgb(214, 137, 245);
+}
